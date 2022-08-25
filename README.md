@@ -3,7 +3,7 @@ This is a demo for the module [`nextjs-progressbar-spinner`](https://github.com/
 
 
 
-:eye_speech_bubble: Live at [https://.vercel.app/](https://.vercel.app/)
+:eye_speech_bubble: Live at [https://nextjs-progressbar-spinner-demo.vercel.app/](https://nextjs-progressbar-spinner-demo.vercel.app/)
 
 ## 🚀 Clone This Project In Your Local Machine:
 ```bash
